@@ -1,2 +1,3 @@
 # git-test
-Odin Project Practice
+My First Github repo! Odin Project Practice
+Hello Odin!
